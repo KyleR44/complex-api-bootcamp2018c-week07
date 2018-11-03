@@ -1,20 +1,22 @@
-# 📊 Week07 Bootcamp2018c Project: Complex API 
+# My Awesome Project
+Here I created an application in which you can enter a location and receive not only the weather but the location of the free bicycles in that city or town.
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
+![alt tag](http://placecorgi.com/1200/650)
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:** HTML, CSS, JavaScript
 
-Example:
+With this project I approached the idea first and looked outside the box as to who i wanted to target, i approached the JavaScript first and then structured my html.
+
+## Optimizations
+
+If I had more time i would try to make it look more appealing  to the user
+
+## Lessons Learned:
+
+i learned the importance of time management because i ran out of time 
+
 ```
 I completed the challenge: 5
 I feel good about my code: 4
